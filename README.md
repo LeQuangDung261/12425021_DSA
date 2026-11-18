@@ -1,7 +1,7 @@
 # Bài tập CTDL&GT – 211131
-- Họ tên: Nguyễn Văn A
-- MSV: 10123456
-- Lớp: 10125N.1
+- Họ tên: Lê Quang Dũng
+- MSV: 1245021
+- Lớp: 124251
 
 | Buổi | Nội dung | Thư mục | Trạng thái |
 |---|---|---|---|
