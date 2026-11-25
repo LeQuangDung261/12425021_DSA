@@ -6,7 +6,7 @@
 
 |Buổi|Nội dung|Thư mục|Trạng thái|
 |-|-|-|-|
-|01|Đệ quy|Buoi01\_DeQuy|Chưa nộp|
+|01|Đệ quy|Buoi01\_DeQuy|Đã nộp|
 |02|Danh sách|Buoi02\_DanhSach|Đã nộp|
 |03|Stack và Queue|Buoi03\_Stack\_Queue|Chưa nộp|
 |04|Cây|Buoi04\_Cay|Chưa nộp|
